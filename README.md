@@ -19,7 +19,6 @@ CodePen: https://codepen.io/techharry
   />
  </span>
  
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haribhuju" />
 
 
 <!--
