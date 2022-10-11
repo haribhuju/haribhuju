@@ -8,7 +8,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haribhuju&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haribhuju)
 
 CodePen: https://codepen.io/techharry
 
