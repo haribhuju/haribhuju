@@ -10,6 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haribhuju)
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+
 CodePen: https://codepen.io/techharry
 
 <span>
