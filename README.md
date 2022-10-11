@@ -1,9 +1,4 @@
-### Hi there 👋, I am Hari Sharan Bhuju <span>
-  <img
-    src="https://komarev.com/ghpvc/?username=haribhuju"
-    alt="haribhuju"
-  />
- </span>
+### Hi there 👋, I am Hari Sharan Bhuju 
 
 
 
@@ -16,6 +11,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haribhuju&layout=compact)
 
 CodePen: https://codepen.io/techharry
+
+<span>
+  <img
+    src="https://komarev.com/ghpvc/?username=haribhuju"
+    alt="haribhuju"
+  />
+ </span>
 
 
 <!--
