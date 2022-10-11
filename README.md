@@ -4,6 +4,13 @@
 - 🌱 I’m currently learning full stack javascript bootcamp.
 - 🤔 I’m looking for help with css 
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=haribhuju"
+    alt="gargakshit"
+  />
+</p>
+
 CodePen: https://codepen.io/techharry
 
 
