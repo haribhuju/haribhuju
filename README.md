@@ -13,7 +13,7 @@
 
 
 
-[![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=haribhuju)
 
 CodePen: https://codepen.io/techharry
 
