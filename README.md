@@ -11,9 +11,9 @@
   />
 </p>
 
-📊 &nbsp;**This week I spent my time on**
 
-(https://github-readme-stats.vercel.app/api?username=haribhuju)
+
+[![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
 
 CodePen: https://codepen.io/techharry
 
