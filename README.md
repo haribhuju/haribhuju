@@ -18,6 +18,8 @@ CodePen: https://codepen.io/techharry
     alt="haribhuju"
   />
  </span>
+ 
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haribhuju" />
 
 
 <!--
