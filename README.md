@@ -1,4 +1,11 @@
-### Hi there 👋, I am Hari Sharan Bhuju
+### Hi there 👋, I am Hari Sharan Bhuju 
+<span>
+  <img
+    src="https://komarev.com/ghpvc/?username=haribhuju"
+    alt="gargakshit"
+  />
+  </span>
+
 
 - 🔭 I’m currently looking for work.
 - 🌱 I’m currently learning full stack javascript bootcamp.
