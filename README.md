@@ -13,6 +13,7 @@
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
 
 CodePen: https://codepen.io/techharry
+Frontend Mentor: https://www.frontendmentor.io/profile/haribhuju/
 
 <span>
   <img
