@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently looking for work.
 - 🌱 I’m currently learning full stack javascript bootcamp.
-- 🤔 I’m looking for help with css 
+- 📚 Practising Daily more than 6 hours - CSS and Javascript
+- 🤔 I’m looking for help with react 
 
 
 
