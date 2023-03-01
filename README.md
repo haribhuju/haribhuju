@@ -11,8 +11,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haribhuju)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
-
 <p>Portfolio: https://bhuju-frontendmentor.netlify.app/</p>
 <p>LinkedIn: https://www.linkedin.com/in/hari-sharan-bhuju-a2b287124/</p>
 <p>CodePen: https://codepen.io/techharry</p>
