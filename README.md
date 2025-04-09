@@ -13,7 +13,7 @@
 
 <p>Portfolio: https://bhuju-frontendmentor.netlify.app/</p>
 <p>LinkedIn: https://www.linkedin.com/in/hari-sharan-bhuju-a2b287124/</p>
-<p>CodePen: https://codepen.io/techharry</p>
+<p>CodeSignal: https://codesignal.com/learn/profile/cm8c38vr4004p12gbt53i75t0</p>
 <p>Frontend Mentor: https://www.frontendmentor.io/profile/haribhuju/</p>
 
 
